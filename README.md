@@ -1,4 +1,7 @@
 ### Hi there 👋
+An experienced Lead/Senior Software Engineer specialized in the delivery of complex enterprise solutions, with a strong focus on quality and improving the processes and practices of the teams where I am involved. Having extensive experience (20+ years) across multiple sectors (payment systems, financial services, trading systems, retail, field service, transport, security, utilities, marketing and advertising), my goal is not just delivering working software but consolidating solid architectures and driving business value through code optimization and process automation.
+
+I'm the creator of the QuickFix/J Spring Boot Starter open source project. If you want to contribute or need consultation on how to integrate the library in your backend systems you can [contact me on LinkedIn](https://es.linkedin.com/in/EduardoSanchezRos) and I will be happy to help.
 
 <!--
 **esanchezros/esanchezros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
